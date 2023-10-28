@@ -1,6 +1,9 @@
 # MindsDB_Endpoint
 Integrating the ChatGPT (endpoint) model with SQL MindsDB.
 
+English | [Русский](README_ru.md)
+
+
 
 Setup:
 
