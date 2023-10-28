@@ -1,6 +1,8 @@
 # MindsDB_Endpoint
 Интеграция модели ChatGPT (Эндпоинт) с SQL MindsDB.
 
+[English](README.md) | Русский 
+
 Настройка:
 
 1. Зарегистрируйтесь на https://mindsdb.com
